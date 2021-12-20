@@ -25,38 +25,38 @@ const projects = [
     name: "Residential",
     description:
       "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://flic.kr/ps/3Y1Lwj",
+    //stack: ["SASS", "TypeScript", "React"],
+    //sourceCode: "https://github.com",
+    livePreview: "https://flic.kr/s/aHBqjzvDoK",
   },
   {
-    name: "Project 2",
+    name: "Commercial",
     description:
       "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
+    //stack: ["SASS", "TypeScript", "React"],
+    //sourceCode: "https://github.com",
     livePreview: "https://github.com",
   },
   {
-    name: "Project 3",
+    name: "Elevation",
     description: `Organized Interior Designer adept at multi-tasking and developing creative
        solutions. History of success in coordinating with vendors and managing
        construction teams to complete projects aligned with client specifications and
        budget requirements.`,
 
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
+    //stack: ["SASS", "TypeScript", "React"],
+    //sourceCode: "https://github.com",
     livePreview: "https://github.com",
   },
   {
-    name: "Project 3",
+    name: "Artwork",
     description: `Organized Interior Designer adept at multi-tasking and developing creative
        solutions. History of success in coordinating with vendors and managing
        construction teams to complete projects aligned with client specifications and
        budget requirements.`,
 
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
+    //stack: ["SASS", "TypeScript", "React"],
+    //sourceCode: "https://github.com",
     livePreview: "https://github.com",
   },
 ];
