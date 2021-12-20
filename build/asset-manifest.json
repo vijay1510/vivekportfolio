@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/vivekportfolio/static/css/main.d4762786.chunk.css",
-    "main.js": "/vivekportfolio/static/js/main.f8d26ff5.chunk.js",
-    "main.js.map": "/vivekportfolio/static/js/main.f8d26ff5.chunk.js.map",
-    "runtime-main.js": "/vivekportfolio/static/js/runtime-main.e2bab4a1.js",
-    "runtime-main.js.map": "/vivekportfolio/static/js/runtime-main.e2bab4a1.js.map",
-    "static/js/2.b2824d97.chunk.js": "/vivekportfolio/static/js/2.b2824d97.chunk.js",
-    "static/js/2.b2824d97.chunk.js.map": "/vivekportfolio/static/js/2.b2824d97.chunk.js.map",
-    "index.html": "/vivekportfolio/index.html",
-    "static/css/main.d4762786.chunk.css.map": "/vivekportfolio/static/css/main.d4762786.chunk.css.map",
-    "static/js/2.b2824d97.chunk.js.LICENSE.txt": "/vivekportfolio/static/js/2.b2824d97.chunk.js.LICENSE.txt",
-    "static/media/VivekGanesanInteriorDesignerResume.7b62465f.PDF": "/vivekportfolio/static/media/VivekGanesanInteriorDesignerResume.7b62465f.PDF"
+    "main.css": "/static/css/main.d4762786.chunk.css",
+    "main.js": "/static/js/main.f8d26ff5.chunk.js",
+    "main.js.map": "/static/js/main.f8d26ff5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.212f1880.js",
+    "runtime-main.js.map": "/static/js/runtime-main.212f1880.js.map",
+    "static/js/2.b2824d97.chunk.js": "/static/js/2.b2824d97.chunk.js",
+    "static/js/2.b2824d97.chunk.js.map": "/static/js/2.b2824d97.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d4762786.chunk.css.map": "/static/css/main.d4762786.chunk.css.map",
+    "static/js/2.b2824d97.chunk.js.LICENSE.txt": "/static/js/2.b2824d97.chunk.js.LICENSE.txt",
+    "static/media/VivekGanesanInteriorDesignerResume.7b62465f.PDF": "/static/media/VivekGanesanInteriorDesignerResume.7b62465f.PDF"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2bab4a1.js",
+    "static/js/runtime-main.212f1880.js",
     "static/js/2.b2824d97.chunk.js",
     "static/css/main.d4762786.chunk.css",
     "static/js/main.f8d26ff5.chunk.js"
