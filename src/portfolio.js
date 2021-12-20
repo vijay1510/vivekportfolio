@@ -7,14 +7,14 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: "Vivek Ganesan",
-  role: "Interior Designer",
+  role: "Senior Interior Designer (7+)",
   description: `Organized Interior Designer adept at multi-tasking and developing creative
        solutions. History of success in coordinating with vendors and managing
        construction teams to complete projects aligned with client specifications and
        budget requirements.`,
   // resume: '',
   social: {
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/vivek-ganesan-37060a212/",
   },
 };
 
@@ -70,7 +70,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: "johnsmith@mail.com",
+  email: "vivek.gv.92@gmail.com",
 };
 
 export { header, about, projects, skills, contact };
