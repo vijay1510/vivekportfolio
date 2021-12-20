@@ -1,6 +1,8 @@
 import uniqid from "uniqid";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LaunchIcon from "@material-ui/icons/Launch";
+import LinkIcon from "@material-ui/icons/Link";
+import AddAPhotoIcon from "@material-ui/icons/AddAPhoto";
 import "./ProjectContainer.css";
 
 const ProjectContainer = ({ project }) => (
@@ -30,9 +32,11 @@ const ProjectContainer = ({ project }) => (
     {project.livePreview && (
       <a
         href={project.livePreview}
+        target='_blank'
         aria-label='live preview'
         className='link link--icon'>
-        <LaunchIcon />
+        <p>Click Here</p>
+        <AddAPhotoIcon />
       </a>
     )}
   </div>

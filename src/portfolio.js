@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: "http://localhost:3000/cleanfolio",
+  homepage: "http://localhost:3000/vivekportfolio",
   title: "GV.",
 };
 
@@ -24,7 +24,7 @@ const projects = [
   {
     name: "Residential",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "During my 7 years in the field, i have worked over 200+ Residential Projects like Apartments,Villas,Individual Villas,Guest House,Mansions.",
     //stack: ["SASS", "TypeScript", "React"],
     //sourceCode: "https://github.com",
     livePreview: "https://flic.kr/s/aHBqjzvDoK",
@@ -32,32 +32,27 @@ const projects = [
   {
     name: "Commercial",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
+      "I have also worked with Commerical Projects like Offices,Hotels,Jewelery,Bakery",
     //stack: ["SASS", "TypeScript", "React"],
     //sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    livePreview: "https://flic.kr/s/aHBqjzvKXZ",
   },
   {
     name: "Elevation",
-    description: `Organized Interior Designer adept at multi-tasking and developing creative
-       solutions. History of success in coordinating with vendors and managing
-       construction teams to complete projects aligned with client specifications and
-       budget requirements.`,
+    description: "some of my Elevation works...",
 
     //stack: ["SASS", "TypeScript", "React"],
     //sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    livePreview: "https://flic.kr/s/aHBqjzvDAt",
   },
   {
     name: "Artwork",
-    description: `Organized Interior Designer adept at multi-tasking and developing creative
-       solutions. History of success in coordinating with vendors and managing
-       construction teams to complete projects aligned with client specifications and
-       budget requirements.`,
+    description:
+      "Interested in Hand Sketching like Building Elevations, Interiors(Modul Kitch,Partitions etc...),",
 
     //stack: ["SASS", "TypeScript", "React"],
     //sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    livePreview: "https://flic.kr/s/aHBqjzvDJf",
   },
 ];
 
