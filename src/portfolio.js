@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: "Vivek Ganesan",
-  role: "Senior Interior Designer (7+)",
+  role: "Senior Interior Designer",
   description: `Organized Interior Designer adept at multi-tasking and developing creative
        solutions. History of success in coordinating with vendors and managing
        construction teams to complete projects aligned with client specifications and
