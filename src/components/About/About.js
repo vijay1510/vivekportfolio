@@ -1,7 +1,7 @@
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import { about } from "../../portfolio";
-import pdf from "../../Resume/VivekGanesanInteriorDesignerResume.PDF";
+import pdf from "../../Resume/vivek resume updated.pdf";
 import "./About.css";
 
 const About = () => {
